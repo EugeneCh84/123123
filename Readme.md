@@ -1,4 +1,4 @@
-## Find words more than 3 letters in array and put them in a new array. Then write the result by raws.
+## Find words less than 3 letters in array and put them in a new array. Then write the result by raws.
 
 
 1. Create string array name arr[] with several words different length. 
